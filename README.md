@@ -1,6 +1,6 @@
 # Enjambre de pequeños drones autónomos para fomentar el estudio de la robótica aérea
 
-Descripción breve del proyecto, sus funcionalidades y propósito.
+Un enjambre de drones es un grupo de drones que operan de manera coordinada y sincronizada, utilizando tecnologías avanzadas para realizar movimientos complejos y precisos en el aire. Esta tecnología permite que múltiples drones trabajen juntos para crear patrones y coreografías impresionantes.
 
 ## Índice
 1. [Instalación](#instalación)
